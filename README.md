@@ -16,7 +16,7 @@ I'm a Full-Stack JS programer, inspired by open source, to open source. I like t
   ```
   ```javascript
   import DenoFiglet from 'https://github.com/denyncrawford/deno-figlet' 
-  // FIGlet font generator built on Deno (for Deno and Browser).
+  // FIGlet from text generator built on Deno (for Deno and Browser).
   ```
   ```javascript
   import Dropper from 'https://github.com/denyncrawford/dropper' 
