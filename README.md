@@ -2,7 +2,9 @@
 
 #### **My name is Miguel Rangel (also known as denyncrawford), welcome!!**. 
 
-I'm a Full-Stack JS programer, inspired by open source, to open source. I like to learn new technologies and die trying to implement them... people say I learned JS 😝 ` const { deno , node } = 🖤;`.
+I'm a Full-Stack web developer. I love open source and I'm always trying to learn new and wierd technologies... `const { deno , node } = 🖤;`.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=denyncrawford&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 **I’m currently working on**:
 
@@ -29,7 +31,6 @@ I'm a Full-Stack JS programer, inspired by open source, to open source. I like t
   
 - 📫 **How to reach me**: Just drop it on denyncrawford@crawford.ml
 
-I'm not good at goodbyes but I cook a super delicious chocolate pie, 🍻 cheers!!
 
 <!--
 **denyncrawford/denyncrawford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
