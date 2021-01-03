@@ -1,4 +1,4 @@
-const miguel = () => {
+module.export = () => {
   return {
     name: 'Miguel Rangel',
     username: 'denyncrawford',
