@@ -1,4 +1,4 @@
-module.export = () => {
+module.exports = () => {
   return {
     name: 'Miguel Rangel',
     username: 'denyncrawford',
