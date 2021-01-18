@@ -29,6 +29,12 @@ I'm a Full-Stack web developer. I love open source and I'm always trying to lear
   
   I am in love with Deno 🦕 and I'm looking for friends to talk about pterodaptiles!!!
   
+  - ⚡ Fun fact: You can install this repo with npm or use it with deno: 
+  
+  **npm**: `npm install miguel` :DD
+  **deno**: `import miguel from 'https://cdn.skypack.dev/miguel';`
+  > You can use the repo to know more about me :D 
+  
 - 📫 **How to reach me**: Just drop it on denyncrawford@crawford.ml
 
 
