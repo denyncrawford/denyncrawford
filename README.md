@@ -28,8 +28,8 @@ I'm a Full-Stack web developer. I love open source and I'm always trying to lear
   > Check out my repos to see all my projects 👀.
   
   I am in love with Deno 🦕 and I'm looking for friends to talk about pterodaptiles!!!
-  
-  - ⚡ Fun fact: You can install this repo with npm or use it with deno: 
+ 
+ - ⚡ Fun fact: You can install this repo with npm or use it with deno: 
   
   **npm**: `npm install miguel` :DD
   **deno**: `import miguel from 'https://cdn.skypack.dev/miguel';`
