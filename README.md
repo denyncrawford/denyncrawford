@@ -10,19 +10,19 @@ I'm a Full-Stack web developer. I love open source and I'm always trying to lear
 
   ```javascript
   import dndb from 'https://github.com/denyncrawford/dndb/' 
-  // A persitent database built on Deno 🦕 💾. 
+  // A persitent and efficient database built for the Deno runtime 🦕 => 💾. 
   ```
   ```javascript
   import VueFlyRoutes from 'https://github.com/denyncrawford/vue-flyroutes' 
-  // Advanced transitions handler for the Vue Router.
+  // Advanced transitions handler for the Vue2 Router.
   ```
   ```javascript
   import DenoFiglet from 'https://github.com/denyncrawford/deno-figlet' 
   // FIGlet from text generator built on Deno (for Deno and Browser).
   ```
   ```javascript
-  import Dropper from 'https://github.com/denyncrawford/dropper' 
-  // Event-based WebSocket module for express. (REALTIME DATA, OH YEAHHH!!!) 
+  import Dropper from 'https://github.com/denyncrawford/dropper-deno' 
+  // Event-based WebSocket framwork for making real-time apps with the Deno runtime. (REALTIME DATA, OH YEAHHH!!!) 
   ```
   
   > Check out my repos to see all my projects 👀.
