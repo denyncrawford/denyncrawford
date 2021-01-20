@@ -6,6 +6,8 @@ I'm a Full-Stack web developer. I love open source and I'm always trying to lear
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=denyncrawford&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+![denyncrawford](https://komarev.com/ghpvc/?username=denyncrawford&label=PROFILE+VIEWS)
+
 - 🔭 **I’m currently working on**:
 
   ```javascript
