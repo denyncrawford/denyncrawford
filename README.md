@@ -36,7 +36,7 @@ I'm a Full-Stack web developer. I love open source and I'm always trying to lear
   - **npm**: `npm install miguel` :DD
   - **deno**: `import miguel from 'https://cdn.skypack.dev/miguel';`
   
-  > You can use the code to know more about me :D 
+  > You can use the code to know more about me :D. A complete documentation is [here](https://github.com/denyncrawford/denyncrawford/blob/master/module_docs.md)
   
 - 📫 **How to reach me**: Just drop it on denyncrawford@crawford.ml
 
