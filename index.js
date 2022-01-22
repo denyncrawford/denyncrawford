@@ -14,7 +14,7 @@ export const profile = () => {
 export const support = way => {
   if (!way) return finance;
   return finance[camalize(way)]
-},
+}
 
 export const contact = way => {
   if (!way) return contact
