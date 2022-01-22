@@ -19,7 +19,7 @@ export const support = way => {
 export const contact = way => {
   if (!way) return contact
   return contact[camalize(way)]
-},
+}
 
 export const at = profile => {
   if (!profile) return profiles;
