@@ -2,17 +2,21 @@
 
 #### **My name is Miguel Rangel (also known as denyncrawford), welcome!!**. 
 
-I'm a Full-Stack web developer. I love open source and I'm always trying to learn new and wierd technologies... `const { deno , node } = 🖤;`.
+I'm a Full-Stack developer. I love open source and descentralized stuff, I'm always trying to learn new and wierd technologies... `const { deno , node } = 🖤;`.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=denyncrawford&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ![denyncrawford](https://komarev.com/ghpvc/?username=denyncrawford&label=PROFILE+VIEWS)
 
-- 🔭 **I’m currently working on**:
+- 🔭 **Some of my work**:
 
   ```javascript
   import dndb from 'https://github.com/denyncrawford/dndb/' 
   // A persitent and efficient database built for the Deno runtime 🦕 => 💾. 
+  ```
+ ```javascript
+  import Astrodon from 'https://github.com/astrodon/astrodon' 
+  //GUI framework for building native desktop apps with the Deno runtime and WebView 🦕.
   ```
   ```javascript
   import VueFlyRoutes from 'https://github.com/denyncrawford/vue-flyroutes' 
@@ -24,21 +28,19 @@ I'm a Full-Stack web developer. I love open source and I'm always trying to lear
   ```
   ```javascript
   import Dropper from 'https://github.com/denyncrawford/dropper-deno' 
-  // Event-based WebSocket framwork for making real-time apps with the Deno runtime. (REALTIME DATA, OH YEAHHH!!!) 
+  // Event-based WebSocket framework for making real-time apps with the Deno runtime. (REALTIME DATA, OH YEAHHH!!!) 
   ```
   
   > Check out my repos to see all my projects 👀.
-  
-  I am in love with Deno 🦕 and I'm looking for friends to talk about pterodaptiles!!!
  
  - ⚡ Fun fact: You can install this repo with npm or use it with deno: 
   
   - **npm**: `npm install miguel` :DD
-  - **deno**: `import miguel from 'https://cdn.skypack.dev/miguel';`
+  - **deno**: `import { method } from 'https://cdn.skypack.dev/miguel/index.js';`
   
-  > You can use the code to know more about me :D. A complete documentation is [here](https://github.com/denyncrawford/denyncrawford/blob/master/module_docs.md)
+  > You can use the code to know more about me and automate donations ;). A complete documentation is [here](https://github.com/denyncrawford/denyncrawford/blob/master/module_docs.md)
   
-- 📫 **How to reach me**: Just drop it on denyncrawford@crawford.ml
+- 📫 **How to reach me**: Just drop it on denyn@crawford.ml
 
 
 <!--
