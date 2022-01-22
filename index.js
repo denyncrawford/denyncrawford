@@ -1,36 +1,37 @@
-module.exports = () => {
+import meta from './metadata.js';
+import axios from 'axios';
+
+const { username, name, career, info: { finance, contact, profiles } } = meta;
+
+export const profile = () => {
   return {
-    name: 'Miguel Rangel',
-    username: 'denyncrawford',
-    career: 'Full Stack Web Developer',
-    info: {
-      profiles: { 
-      github: 'denyncrawford',
-      npmjs: 'denyn_crawford',
-      instagram: 'samaels_bitch'
-      },
-      contact: {
-        email: 'denyncrawford@crawford.ml',
-        telegram: '@samaels_bitch',
-        bussiness: 'bussiness@crawford.ml'
-      },
-      finance: {
-      	bitcoin: '39ik7oyYvmiMeTXTscY3bb9rUFMHdjf5pd',
-        paypal: 'https://paypal.me/DENYNCRAWFORD',
-        buyMeACoffee: 'https://www.buymeacoffee.com/denyncrawford'
-      }
-    },
-    support(way) {
-    	if (!way) return this.info.finance;
-      return this.info.finance[way]
-    },
-    contact(way) {
-      if (!way) return this.info.contact
-      return this.info.contact[way]
-    },
-    at(profile) {
-      if (!profile) return this.info.profiles;
-      return this.info.profiles[profile] || `Ups! I'm not at ${profile}, try another platform.`
-    }
+    name,
+    username,
+    career
   }
+}
+
+export const support = way => {
+  if (!way) return finance;
+  return finance[camalize(way)]
+},
+
+export const contact = way => {
+  if (!way) return contact
+  return contact[camalize(way)]
+},
+
+export const at = profile => {
+  if (!profile) return profiles;
+  return profiles[profile] || `Ups! I'm not at ${profile}, try another platform.`
+}
+
+export const projects = async name => {
+  const { data } = await axios.get(`https://api.github.com/users/denyncrawford/repos`);
+  if (!name) return data;
+  return data.find(p => p.name == name) || data;
+}
+
+const camalize = (str) => {
+  return str.toLowerCase().replace(/[^a-zA-Z0-9]+(.)/g, (m, chr) => chr.toUpperCase());
 }

@@ -3,6 +3,7 @@
   "version": "1.4.0",
   "description": "NPM package for denyncrawford",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +18,9 @@
     "deno-figlet"
   ],
   "author": "denyncrawford",
+  "dependencies": {
+    "axios": "0.25.0"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/denyncrawford/denyncrawford/issues"
