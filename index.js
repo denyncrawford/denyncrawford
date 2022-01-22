@@ -1,7 +1,7 @@
 import meta from './metadata.js';
 import axios from 'axios';
 
-const { username, name, career, info: { finance, contact, profiles } } = meta;
+const { username, name, career, info: { finance, contact: ct, profiles } } = meta;
 
 export const profile = () => {
   return {
@@ -17,8 +17,8 @@ export const support = way => {
 }
 
 export const contact = way => {
-  if (!way) return contact
-  return contact[camalize(way)]
+  if (!way) return ct
+  return ct[camalize(way)]
 }
 
 export const at = profile => {
