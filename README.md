@@ -35,8 +35,8 @@ I'm a Full-Stack developer. I love open source, deno, web3 and descentralized st
  
  - ⚡ Fun fact: You can install this repo with npm or use it with deno: 
   
-  - **npm**: `npm install miguel` :DD
-  - **deno**: `import { method } from 'https://cdn.skypack.dev/miguel/index.js';`
+    - **npm**: `npm install miguel` :DD
+    - **deno**: `import { method } from 'https://cdn.skypack.dev/miguel/index.js';`
   
   > You can use the code to know more about me and automate donations ;). A complete documentation is [here](https://github.com/denyncrawford/denyncrawford/blob/master/module_docs.md)
   
