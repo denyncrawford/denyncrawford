@@ -2,7 +2,7 @@
 
 #### **My name is Miguel Rangel (also known as denyncrawford), welcome!!**. 
 
-I'm a Full-Stack developer. I love open source and descentralized stuff, I'm always trying to learn new and wierd technologies... `const { deno , node } = 🖤;`.
+I'm a Full-Stack developer. I love open source, deno, web3 and descentralized stuff in general, I'm always trying to learn new technologies... `const { deno , node } = 🖤;`.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=denyncrawford&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,12 +11,12 @@ I'm a Full-Stack developer. I love open source and descentralized stuff, I'm alw
 - 🔭 **Some of my work**:
 
   ```javascript
-  import dndb from 'https://github.com/denyncrawford/dndb/' 
-  // A persitent and efficient database built for the Deno runtime 🦕 => 💾. 
-  ```
-  ```javascript
   import Astrodon from 'https://github.com/astrodon/astrodon' 
   //GUI framework for building native desktop apps with the Deno runtime and WebView 🦕.
+  ```
+  ```javascript
+  import dndb from 'https://github.com/denyncrawford/dndb/' 
+  // A persitent and efficient database built for the Deno runtime 🦕 => 💾. 
   ```
   ```javascript
   import VueFlyRoutes from 'https://github.com/denyncrawford/vue-flyroutes' 
@@ -40,7 +40,7 @@ I'm a Full-Stack developer. I love open source and descentralized stuff, I'm alw
   
   > You can use the code to know more about me and automate donations ;). A complete documentation is [here](https://github.com/denyncrawford/denyncrawford/blob/master/module_docs.md)
   
-- 📫 **How to reach me**: Just drop it on denyn@crawford.ml
+- 📫 **How to reach me**: Just drop it on denyn@crawford.ml or mrangel@aluxion.com for work stuff.
 
 
 <!--
