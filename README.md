@@ -2,6 +2,8 @@
 
 #### **My name is Miguel Rangel (also known as denyncrawford), welcome!!**. 
 
+Check my [Secondary work account](https://github.com/danimrangel)
+
 I'm a Full-Stack developer. I love open source, deno, web3 and descentralized stuff in general, I'm always trying to learn new technologies... `const { deno , node } = 🖤;`.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=denyncrawford&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
