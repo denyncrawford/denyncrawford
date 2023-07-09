@@ -42,7 +42,7 @@ I'm a Full-Stack developer. I love open source, deno, web3 and descentralized st
   
   > You can use the code to know more about me and automate donations ;). A complete documentation is [here](https://github.com/denyncrawford/denyncrawford/blob/master/module_docs.md)
   
-- 📫 **How to reach me**: Just drop it on denyn@crawford.ml or mrangel@aluxion.com for work stuff.
+- 📫 **How to reach me**: Just drop it on denyn@crawford.ml or business@crawford.ml for work stuff.
 
 
 <!--
