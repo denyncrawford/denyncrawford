@@ -2,7 +2,9 @@
 
 #### **My name is Miguel Rangel (also known as denyncrawford), welcome!!**. 
 
-Check my [Secondary work account](https://github.com/danimrangel)
+Check my Secondary work accounts:
+- [Aluxion](https://github.com/danimrangel) (not longer in use)
+- [Blind Creator](https://github.com/danimrangelb)
 
 I'm a Full-Stack developer. I love open source, deno, web3 and descentralized stuff in general, I'm always trying to learn new technologies... `const { deno , node } = 🖤;`.
 
