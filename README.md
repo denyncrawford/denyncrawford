@@ -4,7 +4,9 @@
 
 Check my Secondary work accounts:
 - [Aluxion](https://github.com/danimrangel) (not longer in use)
-- [Blind Creator](https://github.com/danimrangelb)
+- [Blind Creator](https://github.com/danimrangelb) (not longer in user)
+
+![Currently looking for a job](https://img.shields.io/badge/Currently%20looking%20for%20a%20job-7547ff?style=flat)
 
 I'm a Full-Stack developer. I love open source, deno, web3 and descentralized stuff in general, I'm always trying to learn new technologies... `const { deno , node } = 🖤;`.
 
