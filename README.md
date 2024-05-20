@@ -4,7 +4,7 @@
 
 Check my Secondary work accounts:
 - [Aluxion](https://github.com/danimrangel) (not longer in use)
-- [Blind Creator](https://github.com/danimrangelb) (not longer in user)
+- [Blind Creator](https://github.com/danimrangelb) (not longer in use)
 
 ![Currently looking for a job](https://img.shields.io/badge/Currently%20looking%20for%20a%20job-7547ff?style=flat)
 
